@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/admin80550/adminPrj8/_apis/build/status/adminPrj8-CI?branchName=master)](https://dev.azure.com/admin80550/adminPrj8/_build/latest?definitionId=1&branchName=master)
 # monolith
 참고:  
 Order 와 product 는 N:1 (다대일) 관계이다.  
